@@ -41,7 +41,7 @@
 
 #### [![CLOVISGAMES](https://img.shields.io/badge/-CLOVISGAMES-green?style=for-the-badge)](https://github.com/TavinScapi/ClovisGamesOFICIAL.git)
 <div align="center">
-  <img src="https://via.placeholder.com/400x200.png?text=CLOVISGAMES" alt="Imagem do projeto ClovisGames" width="400" />
+  <img src="https://github.com/TavinScapi/Imagens/blob/main/Carrossel.png?raw=true" alt="Imagem do projeto ClovisGames" width="400" />
 </div>
    - **Descrição**: Site de Jogos Grátis.
    - **Tecnologias**: HTML, Java, CSS, Python

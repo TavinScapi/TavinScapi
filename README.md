@@ -41,7 +41,7 @@
 
 #### [![CLOVISGAMES](https://img.shields.io/badge/-CLOVISGAMES-green?style=for-the-badge)](https://github.com/TavinScapi/ClovisGamesOFICIAL.git)
 <div align="center">
-  <img src="https://github.com/TavinScapi/Imagens/blob/main/Carrossel.png?raw=true" alt="Imagem do projeto ClovisGames" width="400" />
+  <img src="https://github.com/TavinScapi/Imagens/blob/main/LOGO_CLOVISGAMES.png?raw=true" alt="Imagem do projeto ClovisGames" width="400" />
 </div>
    - **Descrição**: Site de Jogos Grátis.
    - **Tecnologias**: HTML, Java, CSS, Python
@@ -51,7 +51,7 @@
 
 #### [![MIKITO.BET](https://img.shields.io/badge/-MIKITO.BET-blue?style=for-the-badge)](https://github.com/TavinScapi/MIKITO.BET.git)
 <div align="center">
-  <img src="https://via.placeholder.com/400x200.png?text=MIKITO.BET" alt="Imagem do projeto MIKITO.BET" width="400" />
+  <img src="https://github.com/TavinScapi/Imagens/blob/main/logo-removebg-preview.png?raw=true" alt="Imagem do projeto MIKITO.BET" width="400" />
 </div>
    - **Descrição**: Casa de aposta ONLINE.
    - **Tecnologias**: HTML, CSS, Java

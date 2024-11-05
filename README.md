@@ -39,18 +39,18 @@
 
 ### 📌 Projetos em Destaque
 
-#### [![Projeto 1](https://img.shields.io/badge/-Projeto%201-green?style=for-the-badge)](https://github.com/seuusername/projeto1)
+#### [![CLOVISGAMES](https://img.shields.io/badge/-Projeto%201-green?style=for-the-badge)](https://github.com/seuusername/projeto1)
 ![Projeto 1 GIF](https://media.giphy.com/media/26AHG5KGFxSkUWw1i/giphy.gif)
-   - **Descrição**: Projeto que resolve [problema específico] de maneira eficaz e inovadora.
-   - **Tecnologias**: React, Node.js, MongoDB
+   - **Descrição**: Site de Jogos Grátis.
+   - **Tecnologias**: Html, Java, Css, Python
    - [🔗 Veja o repositório](https://tavinscapi.github.io/ClovisGamesOFICIAL/)
 
 ---
 
-#### [![Projeto 2](https://img.shields.io/badge/-Projeto%202-blue?style=for-the-badge)](https://github.com/seuusername/projeto2)
+#### [![MIKITO.BET](https://img.shields.io/badge/-Projeto%202-blue?style=for-the-badge)](https://github.com/seuusername/projeto2)
 ![Projeto 2 GIF](https://media.giphy.com/media/l0HlvtIPzPdt2usKs/giphy.gif)
-   - **Descrição**: Sistema completo de [descrição do projeto], focado em usabilidade e performance.
-   - **Tecnologias**: Python, Django, PostgreSQL
+   - **Descrição**: Casa de aposta ONLINE.
+   - **Tecnologias**: Html, Css, Java
    - [🔗 Veja o repositório](https://github.com/seuusername/projeto2)
 
 ---

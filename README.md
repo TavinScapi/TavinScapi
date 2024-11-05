@@ -1,6 +1,6 @@
 # Olá, sou TavinScapi 👋
 
-![Visitas no perfil](https://komarev.com/ghpvc/?username=seuusername&color=blue&style=flat-square)
+![Visitas no perfil](https://komarev.com/ghpvc/?username=TavinScapi&color=blue&style=flat-square)
 
 ---
 
@@ -39,18 +39,22 @@
 
 ### 📌 Projetos em Destaque
 
-#### [![CLOVISGAMES](https://img.shields.io/badge/-Projeto%201-green?style=for-the-badge)](https://github.com/TavinScapi/ClovisGamesOFICIAL.git)
-![Projeto 1 GIF](https://media.giphy.com/media/26AHG5KGFxSkUWw1i/giphy.gif)
+#### [![CLOVISGAMES](https://img.shields.io/badge/-CLOVISGAMES-green?style=for-the-badge)](https://github.com/TavinScapi/ClovisGamesOFICIAL.git)
+<div align="center">
+  <img src="https://via.placeholder.com/400x200.png?text=CLOVISGAMES" alt="Imagem do projeto ClovisGames" width="400" />
+</div>
    - **Descrição**: Site de Jogos Grátis.
-   - **Tecnologias**: Html, Java, Css, Python
+   - **Tecnologias**: HTML, Java, CSS, Python
    - [🔗 Veja o repositório](https://github.com/TavinScapi/ClovisGamesOFICIAL.git)
 
 ---
 
-#### [![MIKITO.BET](https://img.shields.io/badge/-Projeto%202-blue?style=for-the-badge)](https://github.com/TavinScapi/MIKITO.BET.git)
-![Projeto 2 GIF](https://media.giphy.com/media/l0HlvtIPzPdt2usKs/giphy.gif)
+#### [![MIKITO.BET](https://img.shields.io/badge/-MIKITO.BET-blue?style=for-the-badge)](https://github.com/TavinScapi/MIKITO.BET.git)
+<div align="center">
+  <img src="https://via.placeholder.com/400x200.png?text=MIKITO.BET" alt="Imagem do projeto MIKITO.BET" width="400" />
+</div>
    - **Descrição**: Casa de aposta ONLINE.
-   - **Tecnologias**: Html, Css, Java
+   - **Tecnologias**: HTML, CSS, Java
    - [🔗 Veja o repositório](https://github.com/TavinScapi/MIKITO.BET.git)
 
 ---
@@ -58,8 +62,8 @@
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=default&hide=stars,issues&count_private=true&include_all_commits=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&langs_count=6&theme=default" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TavinScapi&show_icons=true&theme=default&hide=stars,issues&count_private=true&include_all_commits=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TavinScapi&layout=compact&langs_count=6&theme=default" />
 </div>
 
 ---

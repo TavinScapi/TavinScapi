@@ -39,7 +39,7 @@
 
 ### 📌 Projetos em Destaque
 
-#### [![CLOVISGAMES](https://img.shields.io/badge/-Projeto%201-green?style=for-the-badge)](https://github.com/seuusername/projeto1)
+#### [![CLOVISGAMES](https://img.shields.io/badge/-Projeto%201-green?style=for-the-badge)](https://tavinscapi.github.io/ClovisGamesOFICIAL/)
 ![Projeto 1 GIF](https://media.giphy.com/media/26AHG5KGFxSkUWw1i/giphy.gif)
    - **Descrição**: Site de Jogos Grátis.
    - **Tecnologias**: Html, Java, Css, Python
@@ -47,11 +47,11 @@
 
 ---
 
-#### [![MIKITO.BET](https://img.shields.io/badge/-Projeto%202-blue?style=for-the-badge)](https://github.com/seuusername/projeto2)
+#### [![MIKITO.BET](https://img.shields.io/badge/-Projeto%202-blue?style=for-the-badge)](https://tavinscapi.github.io/MIKITO.BET/)
 ![Projeto 2 GIF](https://media.giphy.com/media/l0HlvtIPzPdt2usKs/giphy.gif)
    - **Descrição**: Casa de aposta ONLINE.
    - **Tecnologias**: Html, Css, Java
-   - [🔗 Veja o repositório](https://github.com/seuusername/projeto2)
+   - [🔗 Veja o repositório](https://tavinscapi.github.io/MIKITO.BET/)
 
 ---
 

@@ -43,7 +43,7 @@
 ![Projeto 1 GIF](https://media.giphy.com/media/26AHG5KGFxSkUWw1i/giphy.gif)
    - **Descrição**: Projeto que resolve [problema específico] de maneira eficaz e inovadora.
    - **Tecnologias**: React, Node.js, MongoDB
-   - [🔗 Veja o repositório](https://github.com/seuusername/projeto1)
+   - [🔗 Veja o repositório](https://tavinscapi.github.io/ClovisGamesOFICIAL/)
 
 ---
 

@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Eu sou ... de ....<br><br>- 🔭 Trabalho como ...<br>- 📚 Atualmente estou aprendendo ...<br>- ⚡ No meu tempo livre, eu ...</p>
+<p align="left">Eu sou TavinScapi <br><br>- 🔭 Trabalho como desenvolvedor<br>- <br>- ⚡ No meu tempo livre, eu trabalho em projetos pessoais</p>
 
 ###
 
@@ -50,6 +50,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Logo do Python"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="Logo do React"  />
+</div>
+
+###
+
+<h3 align="left">🚀 Meus Projetos</h3>
+
+###
+
+<div align="center">
+  <a href="https://github.com/TavinScapi/Projeto1">
+    <img src="URL_DA_IMAGEM_PROJETO1" height="100" alt="Imagem do Projeto 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TavinScapi&repo=Projeto1&theme=dark&hide_border=true" alt="Projeto 1" />
+  </a>
+  <a href="https://github.com/TavinScapi/Projeto2">
+    <img src="URL_DA_IMAGEM_PROJETO2" height="100" alt="Imagem do Projeto 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TavinScapi&repo=Projeto2&theme=dark&hide_border=true" alt="Projeto 2" />
+  </a>
+  <a href="https://github.com/TavinScapi/Projeto3">
+    <img src="URL_DA_IMAGEM_PROJETO3" height="100" alt="Imagem do Projeto 3" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TavinScapi&repo=Projeto3&theme=dark&hide_border=true" alt="Projeto 3" />
+  </a>
 </div>
 
 ###

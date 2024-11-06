@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <img height="150" src="https://media1.tenor.com/m/Ctlk_XAAOU4AAAAd/szczuras-brat.gif"  />
 </div>
 
@@ -58,7 +58,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <!-- Projeto 1 -->
   <div>
     <a href="https://github.com/TavinScapi/ClovisGamesOFICIAL.git">

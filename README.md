@@ -60,20 +60,19 @@
 
 <div align="center">
   <a href="https://github.com/TavinScapi/ClovisGamesOFICIAL.git">
-    <img src="https://github.com/TavinScapi/Imagens/blob/main/LOGO_CLOVISGAMES.png?raw=true" height="100" alt="Imagem do Projeto 1" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TavinScapi&repo=Projeto1&theme=dark&hide_border=true" alt="Projeto 1" />
+    <img src="https://github.com/TavinScapi/Imagens/blob/main/LOGO_CLOVISGAMES.png?raw=true" height="100" alt="Imagem do Projeto ClovisGamesOFICIAL" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TavinScapi&repo=ClovisGamesOFICIAL&theme=dark&hide_border=true" alt="ClovisGamesOFICIAL" />
   </a>
   <a href="https://github.com/TavinScapi/MIKITO.BET.git">
-    <img src="https://github.com/TavinScapi/Imagens/blob/main/logo-removebg-preview.png?raw=true" height="100" alt="Imagem do Projeto 2" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TavinScapi&repo=Projeto2&theme=dark&hide_border=true" alt="Projeto 2" />
+    <img src="https://github.com/TavinScapi/Imagens/blob/main/logo-removebg-preview.png?raw=true" height="100" alt="Imagem do Projeto MIKITO.BET" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TavinScapi&repo=MIKITO.BET&theme=dark&hide_border=true" alt="MIKITO.BET" />
   </a>
   <a href="https://github.com/TavinScapi/STOCK.STORE.git">
-    <img src="https://github.com/TavinScapi/Imagens/blob/main/logoBOM.png?raw=true" height="100" alt="Imagem do Projeto 3" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TavinScapi&repo=Projeto3&theme=dark&hide_border=true" alt="Projeto 3" />
+    <img src="https://github.com/TavinScapi/Imagens/blob/main/logoBOM.png?raw=true" height="100" alt="Imagem do Projeto STOCK.STORE" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TavinScapi&repo=STOCK.STORE&theme=dark&hide_border=true" alt="STOCK.STORE" />
   </a>
 </div>
 
-###
 
 <h3 align="left">🔥 Minhas Estatísticas:</h3>
 

@@ -54,11 +54,11 @@
 
 ###
 
-<h3 align="center">🚀 Meus Projetos</h3>
+<h3 align="left">🚀 Meus Projetos</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <!-- Projeto 1 -->
   <div>
     <a href="https://github.com/TavinScapi/ClovisGamesOFICIAL.git">

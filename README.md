@@ -60,15 +60,15 @@
 
 <div align="center">
   <a href="https://github.com/TavinScapi/ClovisGamesOFICIAL.git">
-    <img src="URL_DA_IMAGEM_PROJETO1" height="100" alt="Imagem do Projeto 1" />
+    <img src="https://github.com/TavinScapi/Imagens/blob/main/LOGO_CLOVISGAMES.png?raw=true" height="100" alt="Imagem do Projeto 1" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TavinScapi&repo=Projeto1&theme=dark&hide_border=true" alt="Projeto 1" />
   </a>
   <a href="https://github.com/TavinScapi/MIKITO.BET.git">
-    <img src="URL_DA_IMAGEM_PROJETO2" height="100" alt="Imagem do Projeto 2" />
+    <img src="https://github.com/TavinScapi/Imagens/blob/main/logo-removebg-preview.png?raw=true" height="100" alt="Imagem do Projeto 2" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TavinScapi&repo=Projeto2&theme=dark&hide_border=true" alt="Projeto 2" />
   </a>
   <a href="https://github.com/TavinScapi/STOCK.STORE.git">
-    <img src="URL_DA_IMAGEM_PROJETO3" height="100" alt="Imagem do Projeto 3" />
+    <img src="https://github.com/TavinScapi/Imagens/blob/main/logoBOM.png?raw=true" height="100" alt="Imagem do Projeto 3" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TavinScapi&repo=Projeto3&theme=dark&hide_border=true" alt="Projeto 3" />
   </a>
 </div>

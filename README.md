@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img height="150" src="https://media1.tenor.com/m/Ctlk_XAAOU4AAAAd/szczuras-brat.gif"  />
 </div>
 

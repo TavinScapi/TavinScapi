@@ -1,6 +1,7 @@
 <div align="center">
   <img height="150" src="https://media1.tenor.com/m/Ctlk_XAAOU4AAAAd/szczuras-brat.gif"  />
 </div>
+# Olá, eu sou o Otávio! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 ###
 
@@ -18,7 +19,6 @@
 
 ###
 
-# Olá, pessoal! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 ###
 

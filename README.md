@@ -85,20 +85,6 @@
   
   ###
 
-  <!-- Projeto 3 -->
-  <div style="margin-top: 20px;">
-    <a href="https://github.com/TavinScapi/stockStore.git">
-      <img src="https://github.com/TavinScapi/Imagens/blob/main/logoBOM.png?raw=true" height="100" alt="Imagem do Projeto STOCK.STORE" />
-    </a>
-    <br>
-    <a href="https://github.com/TavinScapi/stockStore.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=TavinScapi&repo=STOCK.STORE&theme=dark&hide_border=true" alt="STOCK.STORE" />
-    </a>
-  </div>
-</div>
-
-  ###
-
   <!-- Projeto 2 -->
   <div style="margin-top: 20px;">
     <a href="https://github.com/TavinScapi/stockStore.git">

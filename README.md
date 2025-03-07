@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Salve 👋</h1>
+<h1 align="center">Olá 👋</h1>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Eu sou TavinScapi <br><br>- 🔭 Trabalho como desenvolvedor<br>- <br>- ⚡ No meu tempo livre, eu trabalho em projetos pessoais</p>
+<p align="left">Eu sou Otávio <br><br>- 🔭 Trabalho como desenvolvedor<br>- <br>- ⚡ No meu tempo livre, eu trabalho em projetos pessoais e curso ciencias da computação</p>
 
 ###
 

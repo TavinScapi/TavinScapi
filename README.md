@@ -88,7 +88,7 @@
   <!-- Projeto 2 -->
   <div style="margin-top: 20px;">
     <a href="https://github.com/TavinScapi/stockStore.git">
-      <img src="https://github.com/TavinScapi/Imagens/blob/main/logo-removebg-preview.png?raw=true" height="100" alt="Imagem do Projeto MIKITO.BET" />
+      <img src="https://github.com/TavinScapi/Imagens/blob/main/logoBOM.png?raw=true" height="100" alt="Imagem do Projeto stockStore" />
     </a>
     <br>
     <a href="https://github.com/TavinScapi/stockStore.git">

@@ -97,7 +97,20 @@
   </div>
 </div>
 
-###
+  ###
+
+  <!-- Projeto 2 -->
+  <div style="margin-top: 20px;">
+    <a href="https://github.com/TavinScapi/MIKITO.BET.git">
+      <img src="https://github.com/TavinScapi/Imagens/blob/main/logo-removebg-preview.png?raw=true" height="100" alt="Imagem do Projeto MIKITO.BET" />
+    </a>
+    <br>
+    <a href="https://github.com/TavinScapi/MIKITO.BET.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=TavinScapi&repo=MIKITO.BET&theme=dark&hide_border=true" alt="MIKITO.BET" />
+    </a>
+  </div>
+  
+  ###
 
 <h3 align="left">🔥 Minhas Estatísticas:</h3>
 

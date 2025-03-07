@@ -92,7 +92,7 @@
     </a>
     <br>
     <a href="https://github.com/TavinScapi/stockStore.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=TavinScapi&repo=MIKITO.BET&theme=dark&hide_border=true" alt="MIKITO.BET" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=TavinScapi&repo=stockStore&theme=dark&hide_border=true" alt="stockStore" />
     </a>
   </div>
   

@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/TavinScapi/Imagens/blob/main/Design%20sem%20nome.gif"  />
+  <img src="https://github.com/TavinScapi/Imagens/blob/main/Design%20sem%20nome.gif"  />
   
 </div>
 

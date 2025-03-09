@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://github.com/TavinScapi/Imagens/blob/main/Design%20sem%20nome.gif"  />
-  
+  <a href="https://tavinscapi.github.io/portfolio/" target="_blank">
+    <img src="https://github.com/TavinScapi/Imagens/blob/main/Design%20sem%20nome.gif" alt="Meu Portfólio" />
+  </a>
 </div>
 
-###
 
-# Olá, eu sou o Otávio! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=TavinScapi.TavinScapi&" alt="Contador de visitantes" />
@@ -16,7 +16,7 @@
 
 ## :book: Sobre Mim
 
-- 🖥 
+- 🖥 Meu nome é Otávio
 - 💼 Trabalho como Desenvolvedor
 - 🎓 Cursando Ciência da Computação
 - ⚡ No meu tempo livre, eu estudo e trabalho em projetos pessoais

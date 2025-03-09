@@ -36,12 +36,10 @@
 </div>
 
 ###
+<h3 align="center">🚀 Meus Projetos</h3>
 
-<h3 align="left">🚀 Meus Projetos</h3>
-
-###
-
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  
   <!-- Projeto 1 -->
   <div>
     <a href="https://github.com/TavinScapi/ClovisGamesOFICIAL.git">
@@ -52,11 +50,9 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=TavinScapi&repo=ClovisGamesOFICIAL&theme=dark&hide_border=true" alt="ClovisGamesOFICIAL" />
     </a>
   </div>
-  
-  ###
 
   <!-- Projeto 2 -->
-  <div style="margin-top: 20px;">
+  <div>
     <a href="https://github.com/TavinScapi/MIKITO.BET.git">
       <img src="https://github.com/TavinScapi/Imagens/blob/main/logo-removebg-preview.png?raw=true" height="100" alt="Imagem do Projeto MIKITO.BET" />
     </a>
@@ -65,11 +61,9 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=TavinScapi&repo=MIKITO.BET&theme=dark&hide_border=true" alt="MIKITO.BET" />
     </a>
   </div>
-  
-  ###
 
-  <!-- Projeto 2 -->
-  <div style="margin-top: 20px;">
+  <!-- Projeto 3 -->
+  <div>
     <a href="https://github.com/TavinScapi/stockStore.git">
       <img src="https://github.com/TavinScapi/Imagens/blob/main/logoBOM.png?raw=true" height="100" alt="Imagem do Projeto stockStore" />
     </a>
@@ -78,8 +72,9 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=TavinScapi&repo=stockStore&theme=dark&hide_border=true" alt="stockStore" />
     </a>
   </div>
-  
-  ###
+
+</div>
+
 
 <h3 align="left">🔥 Minhas Estatísticas:</h3>
 

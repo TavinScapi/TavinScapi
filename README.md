@@ -100,17 +100,38 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=TavinScapi&repo=stockStore&theme=dark&hide_border=true" alt="stockStore" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="https://github.com/TavinScapi/Tocai.git">
-        <img src="https://github.com/TavinScapi/Imagens/blob/main/logoBOM.png?raw=true" height="100" alt="stockStore" />
+        <img src="https://github.com/TavinScapi/Imagens/blob/main/logoTOCAÍ.png" height="100" alt="Tocaí" />
       </a>
       <br>
       <a href="https://github.com/TavinScapi/Tocai.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TavinScapi&repo=stockStore&theme=dark&hide_border=true" alt="tocaí" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TavinScapi&repo=Tocai&theme=dark&hide_border=true" alt="Tocaí" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/TavinScapi/Projeto5.git">
+        <img src="https://github.com/TavinScapi/Imagens/blob/main/logoProjeto5.png?raw=true" height="100" alt="Projeto5" />
+      </a>
+      <br>
+      <a href="https://github.com/TavinScapi/Projeto5.git">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TavinScapi&repo=Projeto5&theme=dark&hide_border=true" alt="Projeto5" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/TavinScapi/Projeto6.git">
+        <img src="https://github.com/TavinScapi/Imagens/blob/main/logoProjeto6.png?raw=true" height="100" alt="Projeto6" />
+      </a>
+      <br>
+      <a href="https://github.com/TavinScapi/Projeto6.git">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TavinScapi&repo=Projeto6&theme=dark&hide_border=true" alt="Projeto6" />
       </a>
     </td>
   </tr>
 </table>
+
 
 
 

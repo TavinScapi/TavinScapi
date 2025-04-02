@@ -112,12 +112,12 @@
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/TavinScapi/Projeto5.git">
-        <img src="https://github.com/TavinScapi/Imagens/blob/main/logoProjeto5.png?raw=true" height="100" alt="Projeto5" />
+      <a href="https://github.com/TavinScapi/LarDosBorder.git">
+        <img src="https://github.com/TavinScapi/Imagens/blob/main/LarDosBoderLOGO.png" height="100" alt="Projeto5" />
       </a>
       <br>
-      <a href="https://github.com/TavinScapi/Projeto5.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TavinScapi&repo=Projeto5&theme=dark&hide_border=true" alt="Projeto5" />
+      <a href="https://github.com/TavinScapi/LarDosBorder.git">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TavinScapi&repo=LarDosBorder&theme=dark&hide_border=true" alt="Projeto5" />
       </a>
     </td>
     <td align="center" width="33%">

@@ -79,15 +79,6 @@
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/TavinScapi/MIKITO.BET.git">
-        <img src="https://github.com/TavinScapi/Imagens/blob/main/logo-removebg-preview.png?raw=true" height="100" alt="MIKITO.BET" />
-      </a>
-      <br>
-      <a href="https://github.com/TavinScapi/MIKITO.BET.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TavinScapi&repo=MIKITO.BET&theme=dark&hide_border=true" alt="MIKITO.BET" />
-      </a>
-    </td>
-    <td align="center" width="33%">
       <a href="https://github.com/TavinScapi/stockStore.git">
         <img src="https://github.com/TavinScapi/Imagens/blob/main/logoBOM.png?raw=true" height="100" alt="stockStore" />
       </a>
@@ -99,30 +90,12 @@
   </tr>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/TavinScapi/Tocai.git">
-        <img src="https://github.com/TavinScapi/Imagens/blob/main/logoTOCAÍ.png" height="100" alt="Tocaí" />
+      <a href="https://github.com/TavinScapi/TocaiStudio.git">
+        <img src="https://tocaistudio.vercel.app/images/LogoTocaí.webp" height="100" alt="TocaiStudio" />
       </a>
       <br>
-      <a href="https://github.com/TavinScapi/Tocai.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TavinScapi&repo=Tocai&theme=dark&hide_border=true" alt="Tocaí" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/TavinScapi/LarDosBorder.git">
-        <img src="https://github.com/TavinScapi/Imagens/blob/main/LarDosBoderLOGO.png" height="100" alt="Projeto5" />
-      </a>
-      <br>
-      <a href="https://github.com/TavinScapi/LarDosBorder.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TavinScapi&repo=LarDosBorder&theme=dark&hide_border=true" alt="Projeto5" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/TavinScapi/Projeto6.git">
-        <img src="https://github.com/TavinScapi/Imagens/blob/main/logoProjeto6.png?raw=true" height="100" alt="Projeto6" />
-      </a>
-      <br>
-      <a href="https://github.com/TavinScapi/Projeto6.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TavinScapi&repo=Projeto6&theme=dark&hide_border=true" alt="Projeto6" />
+      <a href="https://github.com/TavinScapi/TocaiStudio.git">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TavinScapi&repo=TocaiStudio&theme=dark&hide_border=true" alt="TocaiStudio" />
       </a>
     </td>
   </tr>
